@@ -445,8 +445,8 @@ contract HOGE is Context, IERC20, Ownable {
     uint256 private _rTotal = (MAX - (MAX % _tTotal));
     uint256 private _tFeeTotal;
 
-    string private _name = 'hoge.finance';
-    string private _symbol = 'HOGE';
+    string private _name = 'Clean Doge';
+    string private _symbol = 'COGE';
     uint8 private _decimals = 9;
 
     constructor () public {
