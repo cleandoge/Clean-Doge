@@ -1,10 +1,5 @@
-/**
- *Submitted for verification at Etherscan.io on 2021-02-07
-*/
 
-/**
- *Submitted for verification at Etherscan.io on 2021-02-07
-*/
+//deployed on VOLTA test net : https://volta-explorer.energyweb.org/tx/0x21adcfd754c1fb546eb16b36c7b36748eaae4cdcbe3b1aa67fd5877f22c34f7a/token-transfers
 
 // clean doge (cleandoge.com - COGE)
 // COGE is a reimagination of dogecoin running on EnergWeb Chain, it’s doge but running on clean energy!
@@ -450,7 +445,7 @@ contract COGE is Context, IERC20, Ownable {
     uint8 private _decimals = 9;
 
     constructor () public {
-        _rOwned[_msgSender()] = _rTotal;
+                _rOwned[_msgSender()] = _rTotal;
         emit Transfer(address(0), _msgSender(), _tTotal);
     }
 
