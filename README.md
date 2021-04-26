@@ -8,11 +8,11 @@ To do so, they have developed and deployed an open-source decentralized technolo
 
 Read more about the EnergyWeb here
 
-##CleanDoge is written for and runs on the EnergyWeb Chain.
+## CleanDoge is written for and runs on the EnergyWeb Chain.
 
 
-#Clean Doge. Earth We Save Moon We Go. WOW!
-##DogeCoin – Not as friendly as it looks
+# Clean Doge. Earth We Save Moon We Go. WOW!
+## DogeCoin – Not as friendly as it looks
 
 Dogecoin is merge-mined with Litecoin. This is because Dogecoin was a fork of Litecoin – it uses the same hashing algorithm to gain Nakamoto consensus in the Proof of Work as Litecoin – “Scrypt”. Consequently, any miners set up for Dogecoin almost always mine litecoin (and visa versa). The power consumed by the combined miners is not as high as the Bitcoin network, but is still a huge amount of energy for a joke to live on. Litecoin/Dogecoin mining was consuming about the same energy as Cambodia or Moldova in 2018. It is probably significantly higher now, given the rapid influx of new investors. For a joke coin, this fun loving doge sure has created a lot of CO2, oceanic acidification and catastrophic climate change.
 
@@ -21,7 +21,7 @@ We aim to make an environmentally friendly version of dogecoin, running on Energ
 
 The primary location to buy Clean Doge, or COGE, will be Carbonswap, an EnergyWeb Chain clone of Uniswap
 
-#Tokenomics
+# Tokenomics
 
 Total Supply: 21 million COGE, to be released at genesis. With each transaction, 1% of the supply will be burned, 1% will be redistributed to all token holders, and 1% will go to a liquidity fund that will be permanently locked.
 
